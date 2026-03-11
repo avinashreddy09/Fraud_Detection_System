@@ -30,6 +30,7 @@ https://github.com/avinashreddy09/Fraud_Detection_System/assets/
 
 ## Project Structure
 Fraud_Detection_System/
+
 ├── app.py                  
 ├── fraud_model.joblib     
 ├── label_encoder.joblib    
