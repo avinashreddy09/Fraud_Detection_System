@@ -1,8 +1,6 @@
 # Fraud_Detection_System
 # Credit Card Fraud Detection System
 
-![Fraud Detection Banner](https://via.placeholder.com/1200x400/1E90FF/FFFFFF?text=Credit+Card+Fraud+Detection+with+LightGBM+%26+Streamlit)  
-*(Replace with your own screenshot/GIF later)*
 
 A simple yet powerful **real-time credit card fraud detection** web app built with **Streamlit** and **LightGBM**.  
 It predicts whether a transaction is fraudulent using anonymized features (inspired by the classic Kaggle Credit Card Fraud dataset).
@@ -28,7 +26,7 @@ It predicts whether a transaction is fraudulent using anonymized features (inspi
 
 (Record a short 10–20s screen capture with ShareX / Loom → upload as GIF/MP4 to repo)
 
-https://github.com/avinashreddy09/Fraud_Detection_System/assets/xxxxxxxx/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+https://github.com/avinashreddy09/Fraud_Detection_System/assets/
 
 ## Project Structure
 Fraud_Detection_System/
