@@ -30,10 +30,10 @@ https://github.com/avinashreddy09/Fraud_Detection_System/assets/
 
 ## Project Structure
 Fraud_Detection_System/
-├── app.py                  # Main Streamlit application
-├── fraud_model.joblib      # Pre-trained LightGBM model
-├── label_encoder.joblib    # (if used) Encoder for categorical features
-├── requirements.txt        # Dependencies list
+├── app.py                  
+├── fraud_model.joblib     
+├── label_encoder.joblib    
+├── requirements.txt        
 ├── README.md
 └── .gitignore
 
