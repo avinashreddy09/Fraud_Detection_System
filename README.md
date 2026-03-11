@@ -36,6 +36,7 @@ Fraud_Detection_System/
 ├── label_encoder.joblib    
 ├── requirements.txt        
 ├── README.md
+
 └── .gitignore
 
 ## Tech Stack
